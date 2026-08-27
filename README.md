@@ -29,8 +29,6 @@ A Java 21+ platform for building Minecraft server plugins with a Spring-style de
 |---|---|
 | [UltiTools-Reborn](https://github.com/UltiKits/UltiTools-Reborn) | Java platform architecture, API design, testing, release engineering, and long-term maintenance |
 | [UltiTools Dev Docs](https://github.com/UltiKits/UltiTools-Dev-Doc) | Developer experience, technical documentation, examples, and automated publishing |
-| [UltiKits CI Workflows](https://github.com/UltiKits/ci-workflows) | Reusable GitHub Actions, JDK build matrices, dependency controls, and reproducible delivery |
-| [Callus](https://github.com/wisdommen/Callus) | Developer automation and automatic refinement of Claude Code skills from recurring friction |
 
 ## Engineering focus
 
