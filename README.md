@@ -1,40 +1,50 @@
-<div align="center">
-  <img src="https://github.com/wisdommen/wisdommen/blob/master/imgs/widwommen.png?raw=true"/>
-  <br/>
-</div>
+<h1 align="center">Ling Bao</h1>
 
-<!--
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lingbao1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
--->
+<p align="center">
+  <strong>Backend & Platform Engineer</strong> · Founder of <a href="https://github.com/UltiKits">UltiKits</a>
+</p>
 
-## What I am working on 🧑‍💻
+<p align="center">
+  Java · TypeScript · PostgreSQL · CI/CD · Developer Tooling
+</p>
 
-**Come and check out my library for Minecraft plugin development.**
+I build backend platforms and developer tools that make complex systems easier to develop, ship, and maintain. My main open-source work is [UltiKits](https://github.com/UltiKits), an ecosystem for modular Minecraft server development. I also work across the frontend and infrastructure when a product needs the full stack.
 
-**Encharged by the power of Annotation and much more!**
+## What I'm building
 
-**Morden and Easy to use!**
+### [UltiTools API](https://github.com/UltiKits/UltiTools-Reborn)
 
-![UltiKits Logo](https://github.com/wisdommen/wisdommen/blob/master/imgs/ultikits-logo.png?raw=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultikits&repo=UltiTools-Reborn)](https://github.com/UltiKits/UltiTools-Reborn)
+A Java 21+ platform for building Minecraft server plugins with a Spring-style development model:
 
-## Something about me 🐍
+- annotation-driven commands, services, listeners, and scheduled tasks;
+- dependency injection, configuration validation, ORM, transactions, and event-driven modules;
+- versioned releases, automated testing, security checks, and reusable CI workflows;
+- developer documentation and external-plugin integration APIs.
 
-📚 Graduated from the University of Melbourne. 
+[Source](https://github.com/UltiKits/UltiTools-Reborn) · [Developer documentation](https://dev.ultikits.com) · [Releases](https://github.com/UltiKits/UltiTools-Reborn/releases)
 
-☕ Mostly focused on Java development. 
+## Featured work
 
-💕 Dreaming for a better future (and a partner).
+| Project | What it demonstrates |
+|---|---|
+| [UltiTools-Reborn](https://github.com/UltiKits/UltiTools-Reborn) | Java platform architecture, API design, testing, release engineering, and long-term maintenance |
+| [UltiTools Dev Docs](https://github.com/UltiKits/UltiTools-Dev-Doc) | Developer experience, technical documentation, examples, and automated publishing |
+| [UltiKits CI Workflows](https://github.com/UltiKits/ci-workflows) | Reusable GitHub Actions, JDK build matrices, dependency controls, and reproducible delivery |
+| [Callus](https://github.com/wisdommen/Callus) | Developer automation and automatic refinement of Claude Code skills from recurring friction |
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wisdommen&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/wisdommen/wisdommen)
+## Engineering focus
 
+- **Backend and platform engineering:** Java, PostgreSQL, service architecture, and reliable data workflows
+- **Developer platforms:** APIs, modular systems, automation, documentation, and migration paths
+- **Delivery and operations:** Maven, GitHub Actions, testing, releases, security scanning, and self-hosted infrastructure
+- **Full-stack delivery:** TypeScript and Vue when a product needs an end-to-end implementation
+
+## Open-source collaboration
+
+Most of my public work happens across the [UltiKits organization](https://github.com/UltiKits). I care about maintainable APIs, reproducible builds, clear compatibility boundaries, and documentation that helps other developers ship confidently.
+
+Issues, technical feedback, documentation improvements, and integration contributions are welcome.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/lingbao1/) · [UltiKits](https://github.com/UltiKits) · [Developer Docs](https://dev.ultikits.com)
